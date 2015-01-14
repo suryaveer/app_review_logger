@@ -1,4 +1,4 @@
 app_review_logger
 =================
 
-App store reviews
+App store reviews - iOS
